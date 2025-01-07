@@ -1,5 +1,7 @@
 package programmers.test;
 
+import java.util.Arrays;
+
 public class Test140 {
     public int[] solution(int []arr) {
         int[] answer = new int[arr.length];
